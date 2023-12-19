@@ -2,4 +2,5 @@
 A mod for ev.io!
 # Requirements:
 Registered Account\
-Verifyed account
+# How to use:
+xty-studios.github.io/ev-io_mod
