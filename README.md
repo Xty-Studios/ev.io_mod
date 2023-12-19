@@ -1,5 +1,5 @@
 # ev.io_mod
 A mod for ev.io!
 # Requirements:
-Registered Account/
+Registered Account\
 Verifyed account
