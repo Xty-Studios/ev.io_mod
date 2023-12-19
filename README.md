@@ -3,4 +3,4 @@ A mod for ev.io!
 # Requirements:
 Registered Account\
 # How to use:
-xty-studios.github.io/ev-io_mod
+xty-studios.github.io/ev.io_mod
